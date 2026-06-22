@@ -31,4 +31,4 @@ A simple multi-layered enterprise network design implemented in Cisco Packet Tra
 2. Open with **Cisco Packet Tracer (v8.2 or higher)**.
 3. Use the **Simulation Mode** to track ICMP packets across subnets.
 
-**NOTE** : Run python scripts on your preferneces
+**NOTE** : Run python scripts to maintain more security over your Network.
